@@ -1,4 +1,5 @@
-```╭─ wolfei@fedora ~
+```
+╭─ wolfei@fedora ~
 ╰─❯ fgl --installed
 Updating and loading repositories:
 Repositories loaded.
@@ -22,4 +23,5 @@ libreoffice               LibreOffice                            yes
 multimedia                Multimedia                             yes
 networkmanager-submodules Common NetworkManager Submodules       yes
 printing                  Printing Support                       yes
-standard                  Standard                               yes```
+standard                  Standard                               yes
+```
