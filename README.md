@@ -20,3 +20,6 @@ multimedia                Multimedia                             yes
 networkmanager-submodules Common NetworkManager Submodules       yes
 printing                  Printing Support                       yes
 ```
+
+alias fgl = "dnf group list"
+alias fglh = "dnf group list --hidden"
